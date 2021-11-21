@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fahrizal</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="jumlah_sks">Jumlah SKS</string>
+    <string name="isi_dengan_nomor_yang_aktif">Isi dengan Nomor yang Aktif</string>
+    <string name="isi_dengan_email_valid">Isi dengan Email Valid</string>
+    <string name="isi_nama_lengkap">Isi Nama Lengkap</string>
+    <string name="isi_tanggal_lahir">Isi Tanggal Lahir</string>
+    <string name="isi_dengan_jumlah_sks_yang_sudah_ditempuh">Isi dengan jumlah SKS yang sudah ditempuh</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="aplikasi_android_Mu">Aplikasi Android Ku</string>
+    <string name="logo">Logo</string>
+</resources>
